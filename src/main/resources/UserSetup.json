@@ -1,0 +1,23 @@
+[
+   {
+      "username": "shahroz14",
+      "password": "pass1234",
+      "userRoleMappings": [
+         {
+            "userRole": "ADMIN"
+         },
+         {
+            "userRole": "USER"
+         }
+      ]
+   },
+   {
+      "username": "wasif5",
+      "password": "pass1234",
+      "userRoleMappings": [
+         {
+            "userRole": "USER"
+         }
+      ]
+   }
+]
